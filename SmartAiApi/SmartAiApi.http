@@ -1,0 +1,6 @@
+@SmartAiApi_HostAddress = http://localhost:5229
+
+GET {{SmartAiApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

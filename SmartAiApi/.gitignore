@@ -1,0 +1,15 @@
+text# .NET Core compile outputs
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Local AI Application Backup Files (Security Data Guard)
+pdf_backup_data.txt
+AiVectorStorage/
+
+# Environment configurations
+appsettings.Development.json
